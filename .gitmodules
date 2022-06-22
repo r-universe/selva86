@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "InformationValue"]
+	path = InformationValue
+	url = https://github.com/selva86/informationvalue
+	shallow = true
+	registered = true
